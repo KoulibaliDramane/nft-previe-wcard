@@ -132,6 +132,7 @@ hr {
     width: 30px;
     border: 1px solid white;
     border-radius: 50%;
+    margin-right: 10px;
 }
 
 .profile .text {
